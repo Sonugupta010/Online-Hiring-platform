@@ -1,0 +1,68 @@
+2024-05-01 12:55:53.383 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 13:11:32.378 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 13:12:22.267 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-01 13:12:40.113 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 13:45:50.992 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 13:46:09.541 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 13:47:08.932 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 13:49:36.511 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:03:31.417 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:08:02.466 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:13:31.959 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:19:01.397 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:20:10.490 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 14:24:27.099 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:28:52.182 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:29:17.373 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 14:30:20.553 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-01 14:31:03.076 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 14:41:16.755 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-01 14:44:04.661 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-01 19:08:56.310 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 23:26:35.723 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 23:29:30.860 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-01 23:30:04.618 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 23:30:54.244 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-01 23:32:06.704 [main] INFO  com.revhire.dao.UserImpl - Withdrawn His Applications
+2024-05-01 23:40:46.574 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 23:41:52.928 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-01 23:42:19.134 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-01 23:43:26.000 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-01 23:49:16.416 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-01 23:57:04.740 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 00:14:58.246 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 00:17:08.818 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 00:19:19.426 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 07:56:47.665 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:02:41.768 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:11:22.711 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:12:12.652 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:12:37.905 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 08:12:53.613 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:13:07.633 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 08:41:09.839 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:48:25.766 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 08:50:53.605 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 08:54:10.778 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 08:56:10.178 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 09:00:38.847 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 09:02:53.446 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 09:03:06.324 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 09:04:03.970 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-02 09:04:35.947 [main] INFO  com.revhire.dao.UserImpl - Withdrawn His Applications
+2024-05-02 09:14:04.314 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 09:15:40.051 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 09:15:58.578 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 09:17:47.451 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-02 09:18:28.258 [main] INFO  com.revhire.dao.UserImpl - Withdrawn His Applications
+2024-05-02 10:01:00.472 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 10:02:17.252 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 10:02:36.735 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 10:03:46.777 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-02 10:04:00.612 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 10:18:02.528 [main] INFO  com.revhire.Main - Connected to the database.
+2024-05-02 10:19:08.077 [main] INFO  com.revhire.dao.UserImpl - Job Seeker Registered
+2024-05-02 10:19:20.409 [main] WARN  com.revhire.dao.UserImpl - Wrong Credentials
+2024-05-02 10:19:53.502 [main] INFO  com.revhire.dao.UserImpl - User Logged In
+2024-05-02 10:20:42.490 [main] INFO  com.revhire.dao.UserImpl - Applied For The Job
+2024-05-02 21:49:53.178 [main] INFO  com.revhire.Main - Connected to the database.
